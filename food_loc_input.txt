@@ -1,0 +1,10 @@
+1 Hotel_A           Address_A         50      Yes               Yes    Family      North_Indian  Delhi   
+2 Hotel_B           Address_B         30      No                No     Fast_Food   Chinese       Mumbai  
+3 Hotel_C           Address_C         100     Yes               Yes    Fine_Dining Continental    Bangalore
+4 Hotel_D           Address_D         60      Yes               No     Family      South_Indian Chennai 
+5 Hotel_E           Address_E         40      No                Yes    Fast_Food   Italian       Kolkata 
+6 Hotel_F           Address_F         20      Yes               No     Fine_Dining Indian        Hyderabad
+7 Hotel_G           Address_G         70      Yes               Yes    Fast_Food   Mexican       Jaipur  
+8 Hotel_H           Address_H         80      No                Yes    Family      American      Pune    
+9 Hotel_I           Address I         90      Yes               No     Fine_Dining Japanese      Ahmedabad
+

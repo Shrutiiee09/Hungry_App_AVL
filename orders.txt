@@ -1,0 +1,7 @@
+2	Hotel_A	Pizza 		200
+8	Hotel_D	Chicken_Curry     200 
+5	Hotel_D	Chicken_Curry     200
+8	Hotel_G	Pasta             150 
+8	Hotel_A	Pizza             200
+ 
+
